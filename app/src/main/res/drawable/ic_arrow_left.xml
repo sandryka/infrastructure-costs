@@ -1,0 +1,25 @@
+<!-- res/drawable/ic_arrow_elevated_circle_left.xml -->
+
+    <!-- res/drawable/ic_elevated_circle_with_left_arrow.xml -->
+    <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- Shadow layer: a slightly larger, offset circle with a darker color -->
+        <item android:top="2dp" android:right="2dp">
+            <shape android:shape="oval">
+                <solid android:color="#40000000"/> <!-- Soft gray for the shadow -->
+                <size
+                    android:width="50dp"
+                    android:height="50dp"/>
+            </shape>
+        </item>
+        <!-- Circle layer: the main white circle -->
+        <item android:bottom="2dp" android:left="2dp">
+            <shape android:shape="oval">
+                <solid android:color="#FFFFFF"/> <!-- White color for the circle -->
+                <size
+                    android:width="48dp"
+                    android:height="48dp"/>
+            </shape>
+        </item>
+        <!-- Arrow layer: the left-pointing arrow -->
+        <item android:drawable="@drawable/arrow_left" android:gravity="center" />
+    </layer-list>

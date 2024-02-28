@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Design</string>
+    <string name="total_costs">Total Costs:</string>
+    <string name="breakdown_sample_breakdown_text">Breakdown: Sample breakdown text</string>
+    <string name="enter_mileage">Enter Mileage</string>
+    <string name="compute">Compute</string>
+    <string name="arrow_left">arrowleft</string>
+    <string name="closewindow">closewindow</string>
+    <string name="results">Results</string>
+    <string name="evwhite">evwhite</string>
+    <string name="evlogo">evlogo</string>
+    <string name="infrastructure_analysis">Infrastructure Analysis</string>
+    <string name="arrowright">arrowright</string>
+    <string name="preliminary_comparative_costs_analysis">Preliminary comparative costs analysis.</string>
+    <string name="enter_weight"> Enter Payload</string>
+    <string name="preliminary_payload_analysis"> Preliminary payload analysis</string>
+    <string name="vehicle_capacity_analysis">Vehicle capacity analysis </string>
+    <string name="arrow_right" />
+    <string name="infrastructurecosts">infrastructurecosts</string>
+</resources>

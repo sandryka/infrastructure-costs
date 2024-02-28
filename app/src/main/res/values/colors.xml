@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="light_container_bg">#E7E7E8</color>
+    <color name="light_button_text">#000000</color>
+    <color name="light_button_bg">#FFFFFF</color>
+    <color name="dark_button_bg">#262655</color>
+    <color name="dark_background">#1a1a31</color>
+    <color name="light_background">#F7F7F7</color>
+    <color name="black">#000000</color>
+    <color name="text_color_dark">#000000</color>
+    <color name="text_color_light">#FFFFFF</color>
+    <color name="uam_background">#262655</color>
+    <color name="uam_text">#FFFFFF</color>
+    <color name="street_background">#F7F7F7</color>
+    <color name="edittext_color_uam">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="edittext_color_street">#000000</color>
+    <color name="popup_background">#FFFFFFFF</color>
+
+</resources>

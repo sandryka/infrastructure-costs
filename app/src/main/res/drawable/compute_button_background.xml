@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <!-- res/drawable/compute_button_background.xml -->
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="80dp"/>
+            <solid android:color="#FFFFFF"/> <!-- Default color, will be overridden in code -->
+        </shape>
+
+    </item>
+</selector>
